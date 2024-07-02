@@ -24,10 +24,7 @@ Tive algumas dificuldades para executar esse nível do projeto, então fui pesqu
             }
         }`
 
-- Utilizado a ferramenta **NGROK** (https://ngrok.com/) ;
 
-  **O Que é?**
-  *NGROK é uma ferramenta incrivelmente útil para desenvolvedores e engenheiros de devops. Ele permite acessar aplicações rodando localmente a partir da internet, sem a necessidade de configurar VPNs ou abrir portas de firewall.*
 
   ### Conclusões Finais
   - Pode lembras algumas técnicas utilizadas no curso da faculdade (Sistema de Informação) onde que eu fiz projeto de construção de website, utilizando as mesmas linguagens, espero ter entregado o melhor e que eu possa aprender mais e me aperfeiçoar na empresa e me evoluir cada vez mais na área e também melhorar cada vez mais e fazer cursos pela empresa. 
@@ -85,8 +82,6 @@ A ADIMO Imobiliária é um projeto inovador desenvolvido como parte do curso de 
 
 ### Pré-requisitos
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/docs)
 
 ---
@@ -103,12 +98,10 @@ As seguintes tecnologias foram usadas na construção do projeto:
 
 ## 💪 Como contribuir para o projeto\
 
-1. Faça um **fork** do projeto.
-2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
-3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
-4. Envie as suas alterações: `git push origin my-feature`
-> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
+- Utilizado a ferramenta **NGROK** [NGROK](https://ngrok.com/) ;
 
+  **O Que é?**
+  *NGROK é uma ferramenta incrivelmente útil para desenvolvedores e engenheiros de devops. Ele permite acessar aplicações rodando localmente a partir da internet, sem a necessidade de configurar VPNs ou abrir portas de firewall.*
 ---
 
 
