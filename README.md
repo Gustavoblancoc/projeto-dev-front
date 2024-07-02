@@ -4,11 +4,10 @@
 -Projeto feito em Visual Studio Code, utilizando as linguagens HTML, CSS e JavaScript.
 
 ### Especicificações
-- Foram feitas algumas consultas no (https://www.w3schools.com/) e no (https://www.youtube.com/)
+Tive algumas dificuldades para executar esse nível do projeto, então fui pesquisar e entender alguns pontos para poder entregar o melhor;
+- Foram feitas algumas consultas no (https://www.w3schools.com/) e no (https://www.youtube.com/) 
 
-  Tive algumas dificuldades para executar esse nível do projeto, então fui pesquisar e entender alguns pontos para poder entregar o melhor
-
-- a API utilizada foi a (youtube-search-scraper)
+- a API utilizada foi a (youtube-search-scraper) ;
   `const Scraper = require('youtube-search-scraper').default;`
 
 - Foi utilizado também o **LocalStorange** para que possa salvar a informação e jogar para a próxima página;
@@ -25,7 +24,7 @@
             }
         }`
 
-- Utilizado a ferramenta **NGROK** (https://ngrok.com/)
+- Utilizado a ferramenta **NGROK** (https://ngrok.com/) ;
 
   **O Que é?**
   *NGROK é uma ferramenta incrivelmente útil para desenvolvedores e engenheiros de devops. Ele permite acessar aplicações rodando localmente a partir da internet, sem a necessidade de configurar VPNs ou abrir portas de firewall.*
