@@ -1,24 +1,5 @@
-# projeto-dev-front
+# projeto-dev-front 
 
-## Instruções
--Projeto feito em Visual Studio Code, utilizando as linguagens HTML, CSS e JavaScript.
-
-
-`<script>
-        function favoritarVideo(videoUrl) {
-            let favoritos = JSON.parse(localStorage.getItem('favoritos')) || [];
-            if (!favoritos.includes(videoUrl)) {
-                favoritos.push(videoUrl);
-                localStorage.setItem('favoritos', JSON.stringify(favoritos));
-                alert('Vídeo favoritado!');
-            } else {
-                alert('Vídeo já está favoritado!');
-            }
-        }`
-
-
-
-  
 <h4 align="center"> 
 Desenvolvedor Front-end 
 </h4>
