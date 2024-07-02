@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página de Terceiros</title>
+</head>
+<body>
+    <h1>Página de Terceiros</h1>
+    <button id="acessarArmazenamento">Acessar Armazenamento de Primeira Parte</button>
+
+    <script>
+        document.getElementById('acessarArmazenamento').onclick = async function() {
+            try {
+                await document.requestStorageAccess();
+                alert('Acesso concedido ao armazenamento de primeira parte.');
+                // Agora você pode acessar cookies e armazenamento de primeira parte
+            } catch (error) {
+                alert('Acesso negado ao armazenamento de primeira parte.');
+            }
+        };
+    </script>
+</body>
+</html>
