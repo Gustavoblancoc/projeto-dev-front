@@ -43,7 +43,7 @@ Foram feitas algumas consultas no (https://www.w3schools.com/) e no (https://www
 3 - Instalar as dependências <br>
 4 - Rodar o Index.js <br>
 5 - Instalar o Node <br>
-6 - VSCode abrir o projeto (windows) Ctrl+F5 e ativar o http://localhost:3000 
+6 - VSCode abrir o projeto (windows) e usar o Ctrl+F5 para ativar o http://localhost:3000 
 
 ### Pré-requisitos
 
