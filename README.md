@@ -12,7 +12,7 @@ Desenvolvedor Front-end
 
 ## 💻 Sobre o Projeto
 
-Dev Front-End é um projeto para testar o uso de uma API do YouTube como parte da empresa iCasei. Esse projeto visa criar um campo de pesquisa onde o usuário pode visualizar vídeos do YouTube e favoritá-los em um único site e salvar nele, simplificando, assim, a busca pelo site, oferecendo aos usuários uma experiência envolvente e eficiente. 
+Dev Front-End é um projeto para testar o uso de uma API do YouTube. Esse projeto visa criar um campo de pesquisa onde o usuário pode visualizar vídeos do YouTube e favoritá-los em um único site e salvar nele, simplificando, assim, a busca pelo site, oferecendo aos usuários uma experiência envolvente e eficiente. 
 
 
 ---
