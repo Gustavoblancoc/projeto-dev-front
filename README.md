@@ -59,7 +59,7 @@ As seguintes tecnologias foram usadas na construção do projeto:
 
 ## 💪 Como contribuir para o projeto\
 
-- Utilizado a ferramenta [NGROK] LP(https://ngrok.com/) ;
+- Utilizado a ferramenta [NGROK](https://ngrok.com/) ;
 
   **O Que é?**
   *NGROK é uma ferramenta incrivelmente útil para desenvolvedores e engenheiros de devops. Ele permite acessar aplicações rodando localmente a partir da internet, sem a necessidade de configurar VPNs ou abrir portas de firewall.*
