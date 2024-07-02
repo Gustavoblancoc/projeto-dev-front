@@ -26,9 +26,7 @@ Tive algumas dificuldades para executar esse nível do projeto, então fui pesqu
 
 
 
-  ### Conclusões Finais
-  - Pode lembras algumas técnicas utilizadas no curso da faculdade (Sistema de Informação) onde que eu fiz projeto de construção de website, utilizando as mesmas linguagens, espero ter entregado o melhor e que eu possa aprender mais e me aperfeiçoar na empresa e me evoluir cada vez mais na área e também melhorar cada vez mais e fazer cursos pela empresa. 
-
+  
 <h4 align="center"> 
 	🚧  ADIMO ♻️ Concluído 🚀 🚧
 </h4>
@@ -49,19 +47,19 @@ Tive algumas dificuldades para executar esse nível do projeto, então fui pesqu
 
 ---
 
-## 💻 Sobre o projeto
+## 💻 Sobre o Peojeto
 
-https://matheusalvarez.github.io/ADIMO/
+Dev Front-End é um projeto para testar o uso de uma API do YouTube como parte da empresa iCasei. Esse projeto visa criar um campo de pesquisa onde o usuário pode visualizar vídeos do YouTube e favoritar eles em um único site e salvar nele, com isso, simplificando a busca pelo site, oferecendo aos usuários uma experiência envolvente e eficiente. 
 
-A ADIMO Imobiliária é um projeto inovador desenvolvido como parte do curso de Programação Web (PW) na faculdade SENAC de Análise e Desenvolvimento de Sistemas. Este projeto visa criar uma plataforma virtual que simplifica a busca e aquisição de propriedades, oferecendo aos usuários uma experiência envolvente e eficiente.
 
 ---
 
 ## ⚙️ Funcionalidades
 
-- [x] Realizar Login
-- [X] Visualizar imóveis compativeis com sua renda
-- [X] Listar imóveis como favorito
+- [x] Pesquisar um nome de um video;
+- [X] Visualizar os videos;
+- [X] Favoritar o videos;
+- [X] Listar os videos como favorito.
 ---
 
 <!-- 
@@ -82,7 +80,7 @@ A ADIMO Imobiliária é um projeto inovador desenvolvido como parte do curso de 
 
 ### Pré-requisitos
 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/docs)
+Ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/docs)
 
 ---
 
@@ -98,7 +96,7 @@ As seguintes tecnologias foram usadas na construção do projeto:
 
 ## 💪 Como contribuir para o projeto\
 
-- Utilizado a ferramenta **NGROK** [NGROK](https://ngrok.com/) ;
+- Utilizado a ferramenta [NGROK] LP(https://ngrok.com/) ;
 
   **O Que é?**
   *NGROK é uma ferramenta incrivelmente útil para desenvolvedores e engenheiros de devops. Ele permite acessar aplicações rodando localmente a partir da internet, sem a necessidade de configurar VPNs ou abrir portas de firewall.*
@@ -109,5 +107,7 @@ As seguintes tecnologias foram usadas na construção do projeto:
 
 README feito por Gustavo Blanco👋🏽 [Entre em contato!](http://linkedin.com/in/gustavo-blancoc)
 
+## Conclusões Finais
+  - Pode lembras algumas técnicas utilizadas no curso da faculdade (Sistema de Informação) onde que eu fiz projeto de construção de website, utilizando as mesmas linguagens, espero ter entregado o melhor e que eu possa aprender mais e me aperfeiçoar na empresa e me evoluir cada vez mais na área e também melhorar cada vez mais e fazer cursos pela empresa. 
 
 
