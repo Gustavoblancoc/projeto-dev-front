@@ -70,7 +70,13 @@ As seguintes tecnologias foram usadas na construção do projeto:
 
 README feito por Gustavo Blanco👋🏽 [Entre em contato!](http://linkedin.com/in/gustavo-blancoc)
 
+---
+
 ## Conclusões Finais
   - Pode lembras algumas técnicas utilizadas no curso da faculdade (Sistema de Informação) onde que eu fiz projeto de construção de website, utilizando as mesmas linguagens, espero ter entregado o melhor e que eu possa aprender mais e me aperfeiçoar na empresa e me evoluir cada vez mais na área e também melhorar cada vez mais e fazer cursos pela empresa. 
 
+## 🙏🏼 Agradecimento
+
+Obrigado pela empresa iCasei pela oportunidade desse projeto e amigos pelas dicas.
+---
 
