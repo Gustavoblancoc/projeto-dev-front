@@ -1,0 +1,132 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Favorito</title>
+<link rel="stylesheet" type="text/css"  href="estilo.css" />
+<style>
+     #cabecalho {
+        height: 150px;
+        background-color: rgb(83, 131, 170)
+    }
+
+    #menu {
+        height: 500px;
+        width: 300px;
+        float: left;
+    }
+
+    #principal{
+        height: 500px;
+        width: 910px;
+        background-color: rgb(255, 255, 255);
+        float: left;
+    }
+
+    
+    #rodape {
+        height: 100px;
+        width: 1100wm; 
+        margin-top: 20px;
+        background-color: rgb(144, 202, 249);
+        clear: both;
+    }
+
+    /* Responsivo movel */
+    @media only screen and (max-width: 600px) {
+        #principal{
+        height: 0px;
+        width: 380px; 
+        margin: -20wh 4px ;
+        float: right;
+        }
+    }
+    
+    @media only screen and (max-width: 600px) {
+        #menu{
+        height: 100px;
+        width: 124px;
+        }
+    }
+
+    @media only screen and (max-width: 600px) {
+        #rodape{
+        height: 150px;
+        width: 390px; 
+        float: right;
+        }
+    }
+
+    @media only screen and (max-width: 600px) {
+        #cabecalho{
+        height: 100px;
+        width: 375px; 
+        background-color: rgb(144, 202, 249)
+       
+        }
+    }
+/* final Responsivo movel */
+
+</style>
+</head>
+<body>
+
+<div id="cabecalho">
+</div>
+
+<div id="menu">
+    <nav>
+        <ul class="menu">
+              <li><a href="index.html">Home</a></li>
+              <li><a href="favorito.html">Favorito</a>
+              
+      </ul>
+      </nav>
+</div>
+
+
+
+<div id="principal">
+    <h1>Seus Vídeos Favoritos</h1>
+    <div id="videosFavoritosContainer"></div>
+
+
+    <script>
+        const favoritos = JSON.parse(localStorage.getItem('favoritos')) || [];
+
+        if (favoritos.length > 0) {
+            favoritos.forEach(videoUrl => {
+                const videoContainer = document.createElement('div');
+                const videoElement = document.createElement('iframe');
+                videoElement.width = 320;
+                videoElement.height = 240;
+                videoElement.src = videoUrl.replace('watch?v=', 'embed/');
+                videoElement.frameBorder = 0;
+                videoElement.allowFullscreen = true;
+
+                videoContainer.appendChild(videoElement);
+                document.getElementById('videosFavoritosContainer').appendChild(videoContainer);
+            });
+        } else {
+            document.getElementById('videosFavoritosContainer').textContent = 'Nenhum vídeo favoritado.';
+        }
+
+        function limparFavoritos() {
+            localStorage.removeItem('favoritos');
+            document.getElementById('videosFavoritosContainer').innerHTML = 'Nenhum vídeo favoritado.';
+            alert('Vídeos removidos dos favoritos!');
+        }
+
+        
+    </script>
+
+<button onclick="limparFavoritos()">Limpar Favoritos</button>
+
+<div id="rodape">
+    <p>&copy; 2024 iCasei. Todos os direitos reservados.</p>
+</div>
+
+</body>
+</html>

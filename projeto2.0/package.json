@@ -1,0 +1,15 @@
+{
+  "name": "blanco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Gustavo Blanco",
+  "license": "ISC",
+  "dependencies": {
+    "youtube-search-scraper": "^1.0.1",
+    "yt-api-search": "^1.0.0"
+  }
+}
