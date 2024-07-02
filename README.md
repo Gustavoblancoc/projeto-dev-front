@@ -39,10 +39,10 @@ Foram feitas algumas consultas no (https://www.w3schools.com/) e no (https://www
 ## 🚀 Como executar o projeto
 
 1 - Baixar o Projeto <br>
-2 - Rodar o arquivo
-3 - Instalar as dependências 
-4 - Rodar o Index.js
-5 - Instalar o Node
+2 - Rodar o arquivo <br>
+3 - Instalar as dependências <br>
+4 - Rodar o Index.js <br>
+5 - Instalar o Node <br>
 
 ### Pré-requisitos
 
