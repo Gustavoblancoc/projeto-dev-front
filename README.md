@@ -3,14 +3,6 @@
 ## Instruções
 -Projeto feito em Visual Studio Code, utilizando as linguagens HTML, CSS e JavaScript.
 
-### Especicificações
-Tive algumas dificuldades para executar esse nível do projeto, então fui pesquisar e entender alguns pontos para poder entregar o melhor;
-- Foram feitas algumas consultas no (https://www.w3schools.com/) e no (https://www.youtube.com/) 
-
-- a API utilizada foi a (youtube-search-scraper) ;
-  `const Scraper = require('youtube-search-scraper').default;`
-
-- Foi utilizado também o **LocalStorange** para que possa salvar a informação e jogar para a próxima página;
 
 `<script>
         function favoritarVideo(videoUrl) {
@@ -52,15 +44,15 @@ Dev Front-End é um projeto para testar o uso de uma API do YouTube como parte d
 - [X] Listar os videos como favorito.
 ---
 
-<!-- 
-## 🎨 Layout
+### 💻 Especicificações
+Tive algumas dificuldades para executar esse nível do projeto, então fui pesquisar e entender alguns pontos para poder entregar o melhor;
+- Foram feitas algumas consultas no (https://www.w3schools.com/) e no (https://www.youtube.com/) 
 
+- a API utilizada foi a (youtube-search-scraper) ;
+  `const Scraper = require('youtube-search-scraper').default;`
 
-![Mobile 1](https://github.com/MatheusAlvarez/API-Clima/blob/main/assets/mobile.png)
+- Foi utilizado também o **LocalStorange** para que possa salvar a informação e jogar para a próxima página;
 
-![Web 1](https://github.com/MatheusAlvarez/API-Clima/blob/main/assets/web.png)
-
--->
 ---
 
 ## 🚀 Como executar o projeto
